@@ -1,2 +1,2 @@
 # cf-workers-link-shortener
-A url shortener built with Cloudflare Workers and LavaRand
+A url shortener built with Cloudflare Workers, Workers KV and LavaRand
